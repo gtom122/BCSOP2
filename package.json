@@ -8,9 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^5.2.1",
     "mysql2": "^3.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtom122/BCSOP2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gtom122/BCSOP2/issues"
+  },
+  "homepage": "https://github.com/gtom122/BCSOP2#readme",
+  "description": ""
 }

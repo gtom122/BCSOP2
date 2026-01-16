@@ -83,9 +83,7 @@ app.listen(port, () => {
 // =====================================
 // POST – új dolgozó (urlencoded BODY)
 // =====================================
-//curl.exe -X POST "http://localhost:3000/dolgozo" `
-//  -H "Content-Type: application/x-www-form-urlencoded" `
-//  -d "nev=Teszt Elek&magassag=182&suly=81"
+//curl.exe -X POST "http://localhost:3000/dolgozo" -H "Content-Type: application/x-www-form-urlencoded" -d "nev=Teszt Elek&magassag=182&suly=81"
 
 // ===================================================
 // PUT – meglévő rekord módosítása (példa: id = 2)
